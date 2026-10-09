@@ -47,7 +47,13 @@
 ---
 
 ## 📊 Mis estadísticas de GitHub
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO_GITHUB&theme=radical" alt="Racha de GitHub" />
-</p>
+## 📊 Mis estadísticas de GitHub
+
+<div align="center">
+
+| 📁 Repositorios | ⭐ Estrellas | 🔁 Commits | 👥 Seguidores |
+|:---:|:---:|:---:|:---:|
+| 0 | 0 | 0 | 0 |
+
+</div>
 ✨ Gracias por visitar mi perfil ✨</p>
