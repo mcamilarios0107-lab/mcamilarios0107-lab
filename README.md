@@ -47,13 +47,7 @@
 ---
 
 ## 📊 Mis estadísticas de GitHub
-## 📊 Mis estadísticas de GitHub
-
-<div align="center">
-
-| 📁 Repositorios | ⭐ Estrellas | 🔁 Commits | 👥 Seguidores |
-|:---:|:---:|:---:|:---:|
-| 0 | 0 | 0 | 0 |
-
-</div>
+<p align="center">
+  <img src="./github-metrics.svg" alt="Mis estadísticas de GitHub" />
+</p>
 ✨ Gracias por visitar mi perfil ✨</p>
