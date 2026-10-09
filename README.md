@@ -47,13 +47,7 @@
 ---
 
 ## 📊 Mis estadísticas de GitHub
-## 📊 Mis estadísticas de GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO_GITHUB&theme=radical" alt="Racha de GitHub" />
 </p>
 ✨ Gracias por visitar mi perfil ✨</p>
