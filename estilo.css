@@ -1,0 +1,104 @@
+/* CONFIGURACIÓN GENERAL */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(201, 208, 230);
+    color: rgba(245, 245, 220, 0);
+}
+
+/* ENCABEZADO (HEADER) */
+header {
+    background-color: rgba(255, 235, 205, 0);
+    color: rgb(25, 40, 124);
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header p {
+    margin: 0.6rem 0 1.5rem 0;
+    font-style: italic;
+    opacity: 0.9;
+}
+
+/* MENÚ DE NAVEGACIÓN */
+nav a {
+    color: rgb(112, 105, 254);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: rgba(9, 9, 9, 0);
+    border-radius: 4px;
+}
+
+/* CONTENIDO PRINCIPAL (MAIN) */
+main {
+    max-width: 800px;
+    margin: 3rem auto;
+    padding: 0 1.5rem;
+}
+
+article h2 {
+    color: rgba(33, 33, 33, 0);
+    border-bottom: 2px solid;
+    padding-bottom: 0.5rem;
+}
+
+/* DISEÑO DE LA FOTO */
+figure {
+    margin: 3rem 0;
+    text-align: center;
+    background-color: rgb(206, 211, 228);
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+}
+
+figcaption {
+    margin-top: 0.8rem;
+    font-size: 0.9rem;
+    color: rgba(11, 11, 11, 0.6);
+    font-style: italic;
+}
+
+/* LISTA DE BENEFICIOS */
+ul {
+    background-color: rgb(171, 181, 198);
+    padding: 1.5rem 2.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(rgb(158, 153, 187) rgb(187, 150, 151) rgb(145, 183, 170) / alpha);
+}
+
+ul li {
+    margin-bottom: 0.5rem;
+    color: rgb(4, 4, 4);
+}
+
+/* PIE DE PÁGINA (FOOTER) */
+footer {
+    background-color: rgb(65, 65, 80);
+    color: rgba(8, 8, 8, 0.834);
+    text-align: center;
+    padding: 1.5rem 1rem; 
+    margin-top: 4rem;
+    font-size: 0.9rem;
+}
+
+footer p {
+    margin: 0.4rem o;
+}    

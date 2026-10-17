@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    <title>Veterinaria Huellas Felices</title>
+    
+    
+    <link rel="stylesheet" href="estilo.css">
+    <script src="mari.js" defer></script>
+</head>
+<body>
+    
+    <!-- ENCABEZADO -->
+    <header>
+        <h1>Veterinaria Huellas Felices</h1>
+        <p>Especialistas en el Cuidado Canino y salud</p>
+        <nav>
+            <a href="#inicio">Inicio</a> |
+            <a href="#servicios">Servicios</a> |
+            <a href="#contactos">Contactos</a> |
+        </nav>
+    </header>
+
+    <!-- CONTENIDO PRINCIPAL -->
+    <main>
+        <article>
+            <h2>Especialistas en el Cuidado Canino</h2>
+            <p>En nuestra clínica ofrecemos servicios de consulta médica, vacunación, peluquería integral y urgencias las 24 horas</p>
+            
+            <!-- FOTO DE BORDER COLLIE (FUNCIONAL) -->
+            <figure>
+                <img src=https://placedog.net/500/300
+                     alt="Un perro sentado en el pasto"
+                     width="600">
+                <figcaption>Nuestro paciente: un perro feliz tras su revisión.</figcaption>   
+            </figure>
+            
+            <h3>¿Por qué elegirnos?</h3>
+            <ul>
+                <li>Personal médico certificado y amante de los animales.</li>
+                <li>Instalaciones modernas y equipadas.</li>
+                <li>Atención personalizada para cada etapa de su vida.</li>
+            </ul>
+
+
+            <!-- FORMULARIO DE CITA-->
+            <h3>Solicita una cita</h3>
+
+            <form id="formularioCita">
+                 
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" required>
+
+                <br><br>
+
+                <label for="mascota">Nombre de la mascota:</label>
+                <input type="text" id="mascota" required>
+                 
+                <br><br>
+                 
+                <label for="servicio">Servicio:</label>
+
+                <select id="servicio" required>
+                    <option value="">Selecciona un servicio</option>
+                    <option value="Consulta médica">Consulta médica</option>
+                    <option value="Vacunación">Vacunación</option>
+                    <option value="Peluquería">Peluquería integral</option>
+                    <option value="Urgencias">Urgencias</option>
+                </select>
+
+                <br><br>
+
+                <button type="submit">Solicitar cita</button>
+             
+        
+            </form>
+            
+            </article> 
+            </main>
+    
+    
+        <!-- PIE DE PÁGINA -->
+        <footer>
+            <p>&copy; 2026 Veterinaria Huellas Felices. Todos los derechos reservados.</p>
+            <p>Dirección: Av. Principal 123 | Teléfono: 315 0346706</p>
+        </footer>
+
+</body>
+</html>
